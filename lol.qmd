@@ -13,11 +13,11 @@ Quarto enables you to weave together content and executable code into a finished
 U
 
 ```{r}
-O
+2+2
 ```
 
 ```{r}
-
+3+3
 ```
 
 ```{r}
